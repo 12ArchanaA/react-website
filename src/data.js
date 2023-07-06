@@ -1,0 +1,58 @@
+
+export const data = [
+    {
+      name: "Olivia Rhye",
+      email: "olivia@sandwych.com",
+      status: "Active",
+      cases: "25",
+      hospitals: "Methodist",
+      locations: "SugarLand",
+      Clinic: "Womens",
+    },
+    {
+      name: "Phoenix Baker",
+      email: "phoenix@sandwych.com",
+      status: "Inactive",
+      cases: "25",
+      hospitals: "Methodist",
+      locations: "Wharton",
+      Clinic: "Womens",
+    },
+    {
+      name: "Lana Steiner",
+      email: "lana@sandwych.com",
+      status: "Active",
+      cases: "25",
+      hospitals: "Methodist",
+      locations: "Baytown",
+      Clinic: "Womens",
+    },
+    {
+      name: "Demi Wilkinson",
+      email: "demi@sandwych.com",
+      status: "Active",
+      cases: "25",
+      hospitals: "Methodist",
+      locations: "Clear Lake",
+      Clinic: "Womens",
+    },
+    {
+      name: "Candice Wu",
+      email: "candice@sandwych.com",
+      status: "Inactive",
+      cases: "25",
+      hospitals: "Methodist",
+      locations: "Pearland",
+      Clinic: "Womens",
+    },
+    {
+      name: "Natali Craig",
+      email: "natali@sandwych.com",
+      status: "Active",
+      cases: "25",
+      hospitals: "Methodist",
+      locations: "Southside Place",
+      Clinic: "Womens",
+    },
+  ];
+  

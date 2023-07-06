@@ -1,0 +1,6 @@
+.riskLevelCard-container {
+    display: flex;
+    flex-direction: column;
+    width: 16.66%;
+    gap: 2%;
+}

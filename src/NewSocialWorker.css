@@ -1,0 +1,114 @@
+.new-socialWorker {
+    width: 100%
+}
+
+.new-socialWorker-box {
+    padding: 25px;
+}
+
+.details-password {
+    display: flex;
+    gap: 20px;
+}
+
+.personal-information-box {
+    border: 1px solid #D0D5DD;
+}
+
+.personal-information {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+label {
+    display: inline-block;
+    width: 25%;
+}
+
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.select-options {
+    display: inline-flex;
+
+}
+
+.form-input,.name-input{
+    border-radius: 8px;
+    height: 38px;
+    width: 25%;
+    border: 1px solid;
+    padding: 4px;
+}
+
+select {
+    border-radius: 8px;
+    height: 38px;
+    width: 53%;
+    border: 1px solid;
+    padding: 4px;
+}
+
+.full-name {
+    width: 50%;
+    display: flex;
+}
+
+.form-para {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.name-label {
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+/* .name-input {
+    width: 25%;
+} */
+
+.name-style {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.action {
+    gap: 10px;
+    display: flex;
+}
+
+.footer-action-buttons {
+    gap: 10px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px 10px 0px 0px;
+}
+
+.cancel-button {
+    height: 54px;
+    width: 100px;
+    color: rgba(21, 31, 109, 1);
+    background-color: #ffff;
+    border: 2px solid rgba(234, 236, 240, 1);
+    border-radius: 10px;
+}
+
+.save-button {
+    height: 54px;
+    width: 100px;
+    background-color: rgba(21, 31, 109, 1);
+    color: #ffff;
+    border: none;
+    border-radius: 10px;
+}

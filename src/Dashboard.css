@@ -1,0 +1,99 @@
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.dashboard-box {
+    padding: 25px;
+}
+
+.dashboard-navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar {
+    display: flex;
+    gap: 15px;
+}
+
+.search-input {
+    width: 100%;
+    height: 44px;
+    border-radius: 8px;
+    border: 1px solid #D0D5DD;
+}
+
+.heading-part {
+    display: flex;
+    width: 100%;
+    /* justify-content: space-between; */
+}
+.heading{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+}
+
+.left-side {
+    display: flex;
+    width: 50%;
+    gap: 2%;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.date-input,.export-section{
+    border-radius: 8px;
+    height: 38px;
+    border: 1px solid #D0D5DD;
+
+    padding: 4px;
+}
+.export{
+    margin-block-start: 8px;
+}
+.graph-cards {
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    justify-content: space-around;
+}
+
+.percentage-cards {
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    justify-content: space-around;
+}
+
+.risk-cards {
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    justify-content: space-around;
+}
+
+.pieChart-description {
+    display: flex;
+    justify-content: center;
+}
+
+.description {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.ash,
+.blue,
+.yellow,
+.red {
+    display: flex;
+}
+.risk-level-cards{
+    border: 1px solid #D0D5DD;
+}
+.risk-level-card-content{
+    padding: 10px;
+}

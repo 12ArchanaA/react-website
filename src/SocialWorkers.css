@@ -1,0 +1,85 @@
+.socialWorker-box {
+    padding: 25px;
+}
+
+.add-new {
+    height: 44px;
+    border-radius: 8px;
+    color: #151F6D;
+    cursor: pointer;
+    background-color: #FFFFFF;
+    border: 1px solid #D0D5DD;
+}
+
+.details-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-section {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.right-section {
+    display: flex;
+    width: 50%;
+    justify-content: flex-end;
+}
+
+.actions {
+    display: flex;
+    gap: 5px;
+}
+
+.left-section {
+    /* display: flex; */
+    width: 50%;
+}
+
+.left-section button,
+.right-section button {
+    width: 16.66%;
+    height: 100%;
+}
+
+.table-container {
+    border-spacing: 29px;
+    border: 2px solid rgba(234, 236, 240, 1);
+}
+
+tr {
+    align-items: center;
+    text-align: center;
+}
+
+th,
+td {
+    padding: 20px;
+}
+
+.foot {
+    display: flex;
+    /* justify-content: space-between; */
+    width: 100%;
+}
+
+.page-number {
+    align-items: center;
+    width: 50%;
+}
+
+.prev-next-buttons {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.prev-next-buttons button {
+    width: 18%;
+    height: 40px;
+}
+.actions img{
+    cursor: pointer;
+}
