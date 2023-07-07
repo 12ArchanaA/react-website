@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.57a0e461.css",
+    "main.js": "/react-website/static/js/main.3e7883f6.js",
+    "static/js/787.e403dcb9.chunk.js": "/react-website/static/js/787.e403dcb9.chunk.js",
+    "static/media/social-button-image.svg": "/react-website/static/media/social-button-image.7e8e5481740354e92ea30efc93b80a19.svg",
+    "static/media/logo.svg": "/react-website/static/media/logo.7e52549d984e46cfb4d0a865bf048eb5.svg",
+    "static/media/PieChart3.svg": "/react-website/static/media/PieChart3.79fb92cc545cab5b4ce0c319301fdb96.svg",
+    "static/media/PieChart1.svg": "/react-website/static/media/PieChart1.30d810201eee24033962fd94ca040009.svg",
+    "static/media/PieChart4.svg": "/react-website/static/media/PieChart4.6caab46b237798788ae6d1fd981a1117.svg",
+    "static/media/PieChart5.svg": "/react-website/static/media/PieChart5.49b40c02fc17141f1727a106072ad18c.svg",
+    "static/media/PieChart6.svg": "/react-website/static/media/PieChart6.e9f6e1f3c8d72320cd5a5d4ceeb9ecba.svg",
+    "static/media/PieChart2.svg": "/react-website/static/media/PieChart2.6d56927ce8ee59e4f33fb915d437470e.svg",
+    "static/media/RefreshButtonImg.svg": "/react-website/static/media/RefreshButtonImg.01b3b27fdde4152e35b28812bbf38fef.svg",
+    "static/media/settingsIcon.svg": "/react-website/static/media/settingsIcon.0a1ca017c81506f77d96af9b6291fad5.svg",
+    "static/media/graph1.svg": "/react-website/static/media/graph1.2f153b33e6620a211c5c7c7954382321.svg",
+    "index.html": "/react-website/index.html",
+    "static/media/DeleteButtonImg.svg": "/react-website/static/media/DeleteButtonImg.c71f4fad61121076bc0e31c457db5910.svg",
+    "static/media/ProfileIcon.svg": "/react-website/static/media/ProfileIcon.2cbc6deaafdb57fce1409392a3885492.svg",
+    "static/media/Progress bar.svg": "/react-website/static/media/Progress bar.f987970f9dca8ee87f4cc6c7a7ba3554.svg",
+    "main.57a0e461.css.map": "/react-website/static/css/main.57a0e461.css.map",
+    "main.3e7883f6.js.map": "/react-website/static/js/main.3e7883f6.js.map",
+    "787.e403dcb9.chunk.js.map": "/react-website/static/js/787.e403dcb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57a0e461.css",
+    "static/js/main.3e7883f6.js"
+  ]
+}
